@@ -92,5 +92,5 @@
 git clone https://github.com/your-username/spotlight.git
 cd spotlight
 npm install
-npm start
+npx expo start
 ```
